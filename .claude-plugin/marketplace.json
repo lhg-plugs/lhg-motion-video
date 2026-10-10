@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"动效视频专家：需求→导演brief→纯代码渲染→成片导出，片头/转场/产品宣传片","name":"lhg-motion-video","source":"./"}]}
